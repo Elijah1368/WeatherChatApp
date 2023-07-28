@@ -1,6 +1,6 @@
 # Weather Chat Mobile App
 
-Chat Weater mobile app for TCSS 450.
+Chat Weater mobile app for TCSS 450 group project.
 ---
 
 Check a detailed weather forecast of your location in a mobile app. 
